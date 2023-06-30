@@ -1,1 +1,1 @@
-# bicky
+# Giet workshop
